@@ -1,4 +1,4 @@
-package com.gwtpexample.server;
+package com.jerseyexample;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

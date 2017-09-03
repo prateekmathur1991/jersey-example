@@ -1,4 +1,4 @@
-package com.gwtpexample.server;
+package com.jerseyexample;
 
 import java.io.Serializable;
 

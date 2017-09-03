@@ -3,8 +3,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.gwtpexample.server</groupId>
-	<artifactId>gwtp-rest</artifactId>
+	<groupId>com.jerseyexample</groupId>
+	<artifactId>jersey-example</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gwtp-rest</name>
